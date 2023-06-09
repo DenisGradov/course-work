@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eyCE1Ygs9SQHWcUpUdzt+aLhlxGtxKAtl39L7wt6UEU=",
+  "Source": "GradovWeatherAPI",
+  "BasePath": "_content/GradovWeatherAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
